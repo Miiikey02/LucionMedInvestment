@@ -1,0 +1,70 @@
+{
+ "last_run": "2026-11-17",
+ "items": [
+  {
+   "id": "2026-11-10-药明康德-移出1260H清单",
+   "date": "2026-11-10",
+   "found_at": "2026-11-17",
+   "type": "监管与政策",
+   "entity_type": "company",
+   "entity": "药明康德",
+   "title": "美国国防部将药明康德移出 1260H 中国军事企业清单",
+   "summary": "美国联邦公报 2026 年 11 月 10 日刊登移除通知（文件号 2026-22840），依据 2026 年 8 月 7 日哥伦比亚特区联邦地区法院的初步禁令执行，公司于 2026 年 6 月被列入，通知保留以其他理由重新列入的可能，BIOSECURE 法案下 OMB 首份受关注生物技术公司名单预计 12 月 18 日前公布。",
+   "source_name": "美国联邦公报",
+   "source_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22840/notice-of-removal-of-designated-chinese-military-company",
+   "evidence": "A"
+  },
+  {
+   "id": "2026-11-10-瑞博生物-SR122欧盟I期申请",
+   "date": "2026-11-10",
+   "found_at": "2026-11-17",
+   "type": "临床",
+   "entity_type": "company",
+   "entity": "瑞博生物",
+   "title": "双靶点 siRNA 药物 SR122 向欧盟递交 I 期临床试验申请",
+   "summary": "SR122 为 GalNAc 偶联 siRNA，同时靶向 ApoC3 和 PCSK9，拟用于严重高甘油三酯血症和混合型血脂异常，I 期为健康受试者随机安慰剂对照研究，核心产品 RBD5044 正在中欧同步开展 II 期。",
+   "source_name": "公司公告（美通社）",
+   "source_url": "https://www.prnasia.com/story/555510-1.shtml",
+   "evidence": "B"
+  },
+  {
+   "id": "2026-11-14-商业化与支付服务-2026医保商保双目录发布",
+   "date": "2026-11-14",
+   "found_at": "2026-11-17",
+   "type": "监管与政策",
+   "entity_type": "track",
+   "entity": "商业化与支付服务",
+   "title": "国家医保局发布 2026 年版基本医保药品目录和商保创新药目录",
+   "summary": "基本医保目录新增 107 种药品，其中 1 类创新药 51 个，调出 34 种，总数 3331 种，商保创新药目录新增 12 种，总数 28 种，两份目录自 2027 年 1 月 1 日起执行。",
+   "source_name": "国家医疗保障局",
+   "source_url": "https://www.nhsa.gov.cn/art/2026/11/14/art_14_23385.html",
+   "evidence": "A"
+  },
+  {
+   "id": "2026-11-15-康方生物-依沃西美国BLA收到CRL",
+   "date": "2026-11-15",
+   "found_at": "2026-11-17",
+   "type": "临床",
+   "entity_type": "company",
+   "entity": "康方生物",
+   "title": "依沃西单抗联合化疗美国上市申请收到 FDA 完整回复函",
+   "summary": "合作方 Summit 于美国时间 11 月 15 日公告，适应症为 EGFR-TKI 治疗后进展的非鳞状非小细胞肺癌，基于 HARMONi III 期研究，PFS 达到终点（HR 0.52），OS 未达到预设统计学显著性（HR 0.79，P=0.057），11 月 16 日公司港股盘中最大跌幅近 29%。",
+   "source_name": "21世纪经济报道",
+   "source_url": "https://www.21jingji.com/article/20261117/herald/cd551550845ebb0ab9edcebedcdfcc87.html",
+   "evidence": "B"
+  },
+  {
+   "id": "2026-11-16-Corxel-CX11二期完整数据",
+   "date": "2026-11-16",
+   "found_at": "2026-11-17",
+   "type": "临床",
+   "entity_type": "company",
+   "entity": "Corxel",
+   "title": "口服小分子 GLP-1 受体激动剂 CX11 在 ObesityWeek 2026 公布 II 期完整数据",
+   "summary": "CX11201 研究入组 246 例肥胖或超重伴合并症成人，第 36 周各剂量组平均体重下降 9.3% 至 11.5%，安慰剂组 3.1%，因胃肠道不良事件停药率 5.0%，安慰剂组 2.2%，未见肝脏安全性信号。",
+   "source_name": "公司公告（GlobeNewswire）",
+   "source_url": "https://www.manilatimes.net/2026/11/16/tmt-newswire/globenewswire/corxel-us-presents-full-phase-2-results-for-cx11-in-adults-with-overweight-and-obesity-at-obesityweek-2026/2471014",
+   "evidence": "B"
+  }
+ ]
+}

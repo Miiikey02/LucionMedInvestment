@@ -1,0 +1,26 @@
+{
+ "name": "医药赛道研究库",
+ "source": "医药全产业链细分赛道筛选与头部企业研究报告（撰写人杨诚）",
+ "report_as_of": "2026-11-17",
+ "generated_at": "2026-11-17T16:57:25+08:00",
+ "updates_last_run": "2026-11-17",
+ "counts": {
+  "tracks": 16,
+  "routes": 64,
+  "companies": 48,
+  "updates": 5
+ },
+ "conventions": {
+  "推断": "报告作者的推论",
+  "证据等级": "A 监管与法定披露、同行评审；B 公司公告与权威媒体；C 行业媒体与数据库；D 企业自述"
+ },
+ "endpoints": {
+  "api/tracks.json": "16 个赛道",
+  "api/routes.json": "64 条技术路线",
+  "api/companies.json": "48 家企业",
+  "api/updates.json": "报告后跟踪动态（每周）",
+  "api/scoring.json": "打分维度与情景权重",
+  "api/report.json": "报告全文章节树"
+ },
+ "disclaimer": "不构成任何投资建议。动态不改变报告打分。"
+}

@@ -1,0 +1,121 @@
+{
+ "_doc": "每家企业的研发管线。stage 取值 临床前 / IND / 临床 / I 期 / II 期 / III 期 / 申报上市 / 已上市 / 未披露；临床 表示报告只说进入临床、未注明期别。source 为 报告 或 动态 YYYY-MM-DD。platform 为 true 表示以平台或服务为主，报告未列出药物管线。",
+ "companies": {
+  "艾博生物": {"items": [
+   {"asset": "ABO2203", "target": "CD19×CD3 mRNA 编码 TCE", "indication": "B 细胞淋巴瘤，拓展自免适应症", "stage": "I 期", "stage_note": "AACR 2026 披露淋巴瘤早期数据", "partner": "诺华", "source": "报告"}]},
+  "德琪医药": {"items": [
+   {"asset": "ATG-201", "target": "CD19×CD3 TCE", "indication": "自身免疫病", "stage": "未披露", "partner": "优时比", "source": "报告"},
+   {"asset": "ATG-106", "target": "TCE", "indication": "肿瘤", "stage": "未披露", "partner": "K2 Therapeutics", "source": "报告"},
+   {"asset": "CLDN18.2 ADC", "target": "CLDN18.2", "indication": "肿瘤", "stage": "未披露", "partner": "", "source": "报告"}]},
+  "先声再明": {"items": [
+   {"asset": "SIM0660", "target": "CD79a×CD19×CD3 三特异性抗体", "indication": "B 细胞淋巴瘤与 B 细胞介导疾病", "stage": "临床前", "partner": "罗氏", "source": "报告"}]},
+  "思璞锐": {"items": [
+   {"asset": "SPR2015", "target": "KRAS G12D（ON）非降解型分子胶", "indication": "结直肠癌等 RAS 突变肿瘤", "stage": "临床前", "partner": "默沙东", "source": "报告"}]},
+  "格博生物（GluBio）": {"items": [
+   {"asset": "GLB-001", "target": "CK1α 分子胶降解剂", "indication": "", "stage": "临床", "stage_note": "国内首款进入临床的 CK1α 分子胶", "partner": "", "source": "报告"},
+   {"asset": "GLB-002", "target": "IKZF1/3 分子胶降解剂", "indication": "", "stage": "I 期", "partner": "", "source": "报告"},
+   {"asset": "GLB-005", "target": "WIZ", "indication": "镰状细胞病", "stage": "未披露", "partner": "赛诺菲（优先谈判权）", "source": "报告"},
+   {"asset": "GLB-007", "target": "ZBTB7A", "indication": "镰状细胞病", "stage": "未披露", "partner": "赛诺菲（优先谈判权）", "source": "报告"}]},
+  "超阳药业": {"items": [
+   {"asset": "HP-001", "target": "口服 CRBN 分子胶", "indication": "", "stage": "临床前", "partner": "", "source": "报告"}]},
+  "诺诚健华": {"items": [
+   {"asset": "ICP-490", "target": "CELMoD 类分子胶", "indication": "", "stage": "临床", "stage_note": "早期临床", "partner": "", "source": "报告"},
+   {"asset": "奥布替尼", "target": "BTK 抑制剂", "indication": "", "stage": "已上市", "partner": "", "source": "报告"}]},
+  "瑞博生物": {"items": [
+   {"asset": "RBD4059", "target": "FXI GalNAc siRNA", "indication": "", "stage": "临床", "stage_note": "核心产品", "partner": "", "source": "报告"},
+   {"asset": "RBD5044", "target": "APOC3 GalNAc siRNA", "indication": "", "stage": "II 期", "stage_note": "获 II 期默示许可，中欧同步开展 II 期", "partner": "", "source": "报告"},
+   {"asset": "SR122", "target": "ApoC3×PCSK9 双靶点 GalNAc siRNA", "indication": "严重高甘油三酯血症与混合型血脂异常", "stage": "IND", "stage_note": "2026 年 11 月向欧盟递交 I 期临床试验申请", "partner": "", "source": "动态 2026-11-10"}],
+   "note": "公司层面与勃林格殷格翰、Madrigal 合作"},
+  "舶望制药": {"items": [
+   {"asset": "BW-00163", "target": "长效 siRNA", "indication": "高血压", "stage": "II 期", "partner": "", "source": "报告"},
+   {"asset": "BW-20829", "target": "Lp(a) siRNA", "indication": "心血管", "stage": "II 期", "stage_note": "由诺华推进至 IIb 期", "partner": "诺华", "source": "报告"},
+   {"asset": "BW-20805", "target": "siRNA", "indication": "遗传性血管性水肿", "stage": "临床", "stage_note": "获 FDA 快速通道", "partner": "", "source": "报告"},
+   {"asset": "BW-41012", "target": "FXI siRNA", "indication": "", "stage": "I 期", "stage_note": "2026 年 7 月 I 期首例给药", "partner": "", "source": "报告"}]},
+  "圣因生物": {"items": [
+   {"asset": "SGB-3383", "target": "CFB siRNA", "indication": "", "stage": "II 期", "stage_note": "获 II 期批准", "partner": "", "source": "报告"},
+   {"asset": "SGB-7342", "target": "INHBE siRNA", "indication": "减重", "stage": "I 期", "partner": "", "source": "报告"},
+   {"asset": "SGB-3908", "target": "siRNA", "indication": "高血压", "stage": "未披露", "partner": "信达生物", "source": "报告"}],
+   "note": "礼来、基因泰克平台合作"},
+  "靖因药业": {"items": [
+   {"asset": "SRSD107", "target": "FXI GalNAc siRNA", "indication": "", "stage": "II 期", "stage_note": "欧洲 II 期", "partner": "CRISPR Therapeutics（成本与利润五五分成）", "source": "报告"},
+   {"asset": "SRSD216", "target": "Lp(a) siRNA", "indication": "", "stage": "II 期", "stage_note": "中美 IIa 期", "partner": "", "source": "报告"},
+   {"asset": "SRSD384", "target": "INHBE siRNA", "indication": "", "stage": "IND", "stage_note": "推进 IND", "partner": "", "source": "报告"}]},
+  "耀速科技": {"platform": true, "note": "器官芯片、高内涵三维成像与 AI 的 EPIC 平台，参与 FDA 肝器官芯片 ISTAND 意向书"},
+  "希格生科": {"items": [
+   {"asset": "SIGX1094", "target": "FAK/SRC 双靶点", "indication": "肿瘤", "stage": "I 期", "stage_note": "获中美 IND、FDA 孤儿药与快速通道；联用氟泽雷塞的 II/III 期申请已获受理", "partner": "", "source": "报告"},
+   {"asset": "SIGX2649", "target": "泛 TEAD", "indication": "", "stage": "IND", "stage_note": "推进 IND", "partner": "晶泰科技（商业化收益分成）", "source": "报告"}]},
+  "万何圆生物": {"platform": true, "note": "智能微生理类器官系统 iMOS，覆盖 30 余个癌种"},
+  "先通医药": {"items": [
+   {"asset": "欧韦宁", "target": "Aβ-PET 显像剂", "indication": "阿尔茨海默病影像诊断", "stage": "已上市", "stage_note": "2023 年 9 月获批", "partner": "", "source": "报告"},
+   {"asset": "欧达乐", "target": "放射性药物", "indication": "", "stage": "已上市", "partner": "", "source": "报告"},
+   {"asset": "XTR008", "target": "镥-177 SSTR", "indication": "", "stage": "申报上市", "stage_note": "完成 III 期并提交上市申请", "partner": "", "source": "报告"}],
+   "note": "共 15 条管线"},
+  "纽瑞特医疗": {"items": [
+   {"asset": "NRT6003", "target": "钇-90 微球", "indication": "肝癌", "stage": "III 期", "partner": "", "source": "报告"},
+   {"asset": "锗-68/镓-68 发生器", "target": "同位素发生器", "indication": "", "stage": "已上市", "stage_note": "已上市并出口", "partner": "", "source": "报告"}]},
+  "法伯新天": {"platform": true, "note": "镥-177 国产化，与中国科学院大连化学物理研究所共建万居里级生产线"},
+  "依纳核": {"platform": true, "note": "以电子直线加速器生产医用同位素"},
+  "微滔生物（Vivacta）": {"items": [
+   {"asset": "GT801", "target": "CD19 CAR mRNA，抗体展示 LNP 体内递送", "indication": "血液瘤与自身免疫病", "stage": "临床", "stage_note": "ASH 2025 公布首次人体数据，AACR 2026 验证重复给药", "partner": "", "source": "报告"}]},
+  "虹信生物": {"items": [
+   {"asset": "体内 CAR-T 管线（多款）", "target": "EnC-LNP 靶向递送", "indication": "", "stage": "临床", "stage_note": "多款管线推进临床", "partner": "", "source": "报告"}]},
+  "威斯津生物（WestGene）": {"items": [
+   {"asset": "BCMA mRNA CAR-T", "target": "BCMA", "indication": "重症肌无力", "stage": "IND", "stage_note": "拟于 2026 年下半年开展 I 期", "partner": "Cartesian", "source": "报告"}],
+   "note": "2026 年 8 月与 CREATE Medicines 达成研发合作与许可"},
+  "湾岛细胞": {"platform": true, "note": "新一代细胞治疗平台，目标降低 CAR-T 成本"},
+  "百利天恒": {"items": [
+   {"asset": "iza-bren", "target": "EGFR×HER3 双抗 ADC", "indication": "", "stage": "已上市", "stage_note": "2026 年 6 月国内获批，多项 III 期阳性", "partner": "百时美施贵宝", "source": "报告"}]},
+  "科伦博泰": {"items": [
+   {"asset": "sac-TMT", "target": "TROP2 ADC", "indication": "", "stage": "未披露", "partner": "默沙东", "source": "报告"}],
+   "note": "先后向默沙东授权多达 9 款 ADC"},
+  "映恩生物": {"items": [
+   {"asset": "DB-1303", "target": "ADC", "indication": "", "stage": "未披露", "partner": "", "source": "报告"},
+   {"asset": "DB-1305", "target": "ADC", "indication": "", "stage": "未披露", "partner": "", "source": "报告"}],
+   "note": "与 BioNTech、百济神州、Adcendo 等合作"},
+  "宜联生物": {"items": [
+   {"asset": "YL201", "target": "B7-H3 ADC", "indication": "鼻咽癌", "stage": "III 期", "stage_note": "III 期中期分析阳性", "partner": "", "source": "报告"},
+   {"asset": "YL202", "target": "HER3 ADC", "indication": "", "stage": "未披露", "partner": "BioNTech", "source": "报告"},
+   {"asset": "YL211", "target": "ADC", "indication": "", "stage": "未披露", "partner": "罗氏", "source": "报告"}]},
+  "尧唐生物": {"items": [
+   {"asset": "YOLT-203", "target": "mRNA-LNP 体内基因编辑", "indication": "原发性高草酸尿症", "stage": "临床", "stage_note": "获 FDA 再生医学先进疗法认定", "partner": "", "source": "报告"},
+   {"asset": "YOLT-101", "target": "体内基因编辑", "indication": "", "stage": "临床", "partner": "信立泰（中国权益）", "source": "报告"}],
+   "note": "6 条管线进入临床"},
+  "锐正基因": {"items": [
+   {"asset": "ART001", "target": "LNP 体内基因编辑", "indication": "转甲状腺素蛋白淀粉样变性", "stage": "IND", "stage_note": "获中美 IND，FDA 孤儿药与再生医学先进疗法认定", "partner": "", "source": "报告"},
+   {"asset": "ART002", "target": "体内基因编辑", "indication": "杂合子家族性高胆固醇血症", "stage": "临床", "partner": "", "source": "报告"}]},
+  "康方生物": {"items": [
+   {"asset": "依沃西", "target": "PD-1×VEGF 双抗", "indication": "", "stage": "已上市", "stage_note": "国内已上市；美国联合化疗上市申请 2026 年 11 月收到 FDA 完整回复函", "partner": "Summit Therapeutics（海外权益）", "source": "报告"},
+   {"asset": "卡度尼利", "target": "PD-1×CTLA-4 双抗", "indication": "", "stage": "已上市", "partner": "", "source": "报告"}]},
+  "三生制药": {"items": [
+   {"asset": "SSGJ-707", "target": "PD-1×VEGF 双抗", "indication": "", "stage": "未披露", "partner": "辉瑞", "source": "报告"}]},
+  "英矽智能": {"items": [
+   {"asset": "Rentosertib", "target": "TNIK", "indication": "特发性肺纤维化", "stage": "III 期", "stage_note": "III 期计划入组 320 人", "partner": "", "source": "报告"}],
+   "note": "累计 13 个 AI 项目获 IND"},
+  "晶泰科技": {"items": [
+   {"asset": "DoveTree 首个临床前候选分子", "target": "", "indication": "", "stage": "临床前", "stage_note": "进入 IND 准备阶段", "partner": "DoveTree", "source": "报告"}]},
+  "剂泰科技": {"items": [
+   {"asset": "MTS-128", "target": "", "indication": "", "stage": "未披露", "stage_note": "已对外授权", "partner": "", "source": "报告"},
+   {"asset": "MTS-004", "target": "", "indication": "", "stage": "III 期", "stage_note": "企业自述", "partner": "", "source": "报告"}]},
+  "深势科技": {"platform": true, "note": "AI for Science 基础设施，覆盖药物与材料的科学计算与智能体"},
+  "Anew Labs": {"items": [
+   {"asset": "最快管线", "target": "", "indication": "", "stage": "临床前", "partner": "", "source": "报告"}]},
+  "诚益生物": {"items": [
+   {"asset": "ECC5004（elecoglipron）", "target": "口服小分子", "indication": "代谢与减重", "stage": "III 期", "partner": "阿斯利康", "source": "报告"}]},
+  "闻泰医药": {"items": [
+   {"asset": "VCT220", "target": "肠胃激素 GPCR 小分子", "indication": "", "stage": "申报上市", "stage_note": "III 期达到终点，2026 年 7 月申报上市", "partner": "", "source": "报告"}]},
+  "Corxel": {"items": [
+   {"asset": "CX11", "target": "口服小分子 GLP-1 受体激动剂", "indication": "肥胖或超重伴合并症", "stage": "II 期", "stage_note": "ObesityWeek 2026 公布 II 期完整数据", "partner": "", "source": "动态 2026-11-16"}]},
+  "镁伽科技": {"platform": true, "note": "机器人与 AI 自主智能体，服务 880 余家客户"},
+  "药明康德": {"platform": true, "note": "一体化 CRDMO，小分子商业化项目首次突破 100 个"},
+  "凯莱英": {"platform": true, "note": "小分子 CDMO 加新兴业务"},
+  "普洛药业": {"platform": true, "note": "原料药与 CDMO"},
+  "奥浦迈": {"platform": true, "note": "细胞培养基与 CDMO，2026 年 1 月完成收购澎立生物"},
+  "纳微科技": {"platform": true, "note": "色谱介质与微球"},
+  "圆心科技": {"platform": true, "note": "院外药房网络与妙手医生线上平台"},
+  "镁信健康": {"platform": true, "note": "医药多元支付平台"},
+  "思派健康": {"platform": true, "note": "企业健康保险经纪与企康服务平台"},
+  "恒瑞医药": {"items": [
+   {"asset": "HRS-7535", "target": "", "indication": "", "stage": "未披露", "partner": "Kailera（海外权益）", "source": "报告"}],
+   "note": "多款减重、肿瘤与自免产品"}
+ }
+}

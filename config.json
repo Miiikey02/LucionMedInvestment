@@ -1,0 +1,10 @@
+{
+ "update_schedule": "每周一 09:00（本地时间）",
+ "lookback_days": 7,
+ "ai_gateway_url": "",
+ "deploy": {
+  "method": "git",
+  "remote": "origin",
+  "branch": "main"
+ }
+}

@@ -1,0 +1,11 @@
+# secrets and local-only files
+gateway/.env
+.env
+.DS_Store
+build/
+__pycache__/
+node_modules/
+.wrangler/
+
+# the source report stays on this machine; only the built site is published
+source/*.docx
